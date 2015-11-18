@@ -3,3 +3,4 @@ What the hack is this
 Another Line From Master
 LALALALA
 this line for LBASE
+Text2ToolStripMenuItem1
