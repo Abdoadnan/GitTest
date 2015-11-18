@@ -2,7 +2,7 @@ The New txt will come here
 second Line in Master
 This Line From Hotfix
 
-
+This is From HMaster
 New Change
 Hello From the other Branch
 Away from Master
