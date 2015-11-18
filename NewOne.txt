@@ -4,3 +4,4 @@ Another Line From Master
 LALALALA
 this line for LBASE
 Text2ToolStripMenuItem1
+Text2ToolStripMenuIte2
